@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+/dist
+/build
+
+# Vite
+.vite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Backend data
+backend/users.json
+backend/*.sqlite
+
+# Misc
+*.log
+*.tmp
+
+# Ignore coverage and test output
+coverage/
+
+# Ignore frontend static assets cache
+frontend/frontend/public/*.cache
