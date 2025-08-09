@@ -22,7 +22,7 @@ Thumbs.db
 .vscode/
 
 # Backend data
-backend/users.json
+# backend/users.json
 backend/*.sqlite
 
 # Misc
